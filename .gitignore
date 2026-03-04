@@ -13,6 +13,8 @@ steganography-lsb/dataset_500x500
 steganography-lsb/dataset_1000x1000
 steganography-lsb/scripts/resultados_stego/
 
+pollard_rho/img/
+
 # --- Ignorar archivos compilados de Python ---
 __pycache__/
 *.pyc
