@@ -7,7 +7,7 @@ env/
 .idea/
 
 # --- Ignorar carpetas de datos y resultados ---
-steganography-lsb/scripts/stego-results/
+steganography-lsb/scripts/stego-results
 pollard_rho/img/
 
 # --- Ignorar archivos compilados de Python ---
